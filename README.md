@@ -23,3 +23,9 @@ This project is a DBMS-based system designed to manage blood donation, storage, 
 ## 🚀 Future Scope
 - Web-based system
 - Real-time alerts
+
+## 🧩 ER Diagram
+![ER Diagram](er-diagram.png)
+
+## 📊 Output Screenshots
+![Output](Outputs.pdf)
